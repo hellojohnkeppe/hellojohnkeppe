@@ -40,7 +40,7 @@ I am a Detail-oriented Professional with over 15 years of experience in administ
       Scan to see how I bridge the gap between operations and automation.</p>
     </td>
     <td align="center">
-      <img src="./assets/notion-qr-code.png" width="150px" alt="Notion QR Code" />
+      <img src="assets/notion-qr-code.png" width="150px" alt="Notion QR Code" />
       <br>
       <sub>Scan Me</sub>
     </td>
