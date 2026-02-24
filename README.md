@@ -68,7 +68,7 @@ I built a custom automation to streamline my morning routine and ensure I’m al
 
 - **The Purpose:** This project demonstrates my ability to integrate third-party APIs (Weather) with communication tools (Gmail) to enhance personal and professional efficiency.
 
-### 📸 Latest Report Preview
+### 📸 Daily Weahter Report Preview
 
 Note: Image of my automated workflow.
 
