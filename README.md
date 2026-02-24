@@ -100,4 +100,6 @@ HTML
 
 **Email:** hello.johnkeppe@gmail.com 
 
+[![Download Resume](https://img.shields.io/badge/Download_My-Resume-blue)](src="resume.pdf")
+
 **Goal:** Seeking to apply my administrative expertise and technical proficiency to help organizations optimize their operations.
