@@ -49,6 +49,49 @@ I am a Detail-oriented Professional with over 15 years of experience in administ
 
 --- 
 
+This is a fantastic addition to your README because it proves you aren't just "learning" automation—you are actively using it to solve real-world needs. In the world of Administrative Operations, showing that you can "vibe code" a solution to deliver data exactly when and where it's needed is a huge selling point.
+
+Since this is a daily screenshot, you can frame it as your "Automated Morning Briefing."
+
+## 🌦️ Automated Morning Briefing (Zapier + Gmail)
+
+I built a custom automation to streamline my morning routine and ensure I’m always prepared for the day ahead in Beckley, WV. Using a "vibe coding" approach with Zapier, I've created a hands-off workflow that delivers critical data directly to my inbox.
+
+
+- **The Workflow:** Every morning at 7:00 AM, a Zap triggers to fetch the latest local weather data.
+
+
+- **The Output:** The system captures a snapshot of the report and emails it to my job-search Gmail.
+
+
+- **The Purpose:** This project demonstrates my ability to integrate third-party APIs (Weather) with communication tools (Gmail) to enhance personal and professional efficiency.
+
+### 📸 Latest Report Preview
+
+Note: Image of my automated workflow.
+
+HTML
+<p align="center">
+  <img src="daily-weather-report.png" width="500px" alt="Daily Weather Report Screenshot" style="border: 1px solid #ddd; border-radius: 8px;" />
+  <br>
+  <sub><i>Automated Screenshot delivered daily at 7:00 AM EST</i></sub>
+</p>
+
+### 🛠️ The Tech Behind the "Vibe"
+
+- **Trigger:** Schedule by Zapier (Daily at 7 AM).
+
+
+- **Action:** Webhook/API call to weather data services.
+
+
+- **Delivery:** Automated HTML email generation sent to hello.johnkeppe@gmail.com.
+
+
+- **Integration:** Demonstrates the same logic I use to connect Notion and Slack for team-wide transparency.
+
+---
+
 ### 📫 Connect with Me
 
 Location: Beckley, WV 
