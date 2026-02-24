@@ -32,6 +32,11 @@ I am a Detail-oriented Professional with over 15 years of experience in administ
 
 - **Automation:** Currently exploring AI tools to enhance material generation and workflow efficiency.
 
+## Notion Resume Page 
+
+This QR Code links to the Notion Page version of my resume.
+
+
 --- 
 
 ### 📫 Connect with Me
