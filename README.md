@@ -32,10 +32,20 @@ I am a Detail-oriented Professional with over 15 years of experience in administ
 
 - **Automation:** Currently exploring AI tools to enhance material generation and workflow efficiency.
 
-## Notion Resume Page 
-
-This QR Code links to the Notion Page version of my resume.
-
+<table>
+  <tr>
+    <td>
+      <h3>Explore My Notion Resume Page</h3>
+      <p>I use Notion to manage my 15+ years of administrative data and technical projects. 
+      Scan to see how I bridge the gap between operations and automation.</p>
+    </td>
+    <td align="center">
+      <img src="./assets/notion-qr-code.png" width="150px" alt="Notion QR Code" />
+      <br>
+      <sub>Scan Me</sub>
+    </td>
+  </tr>
+</table>
 
 --- 
 
