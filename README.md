@@ -5,6 +5,8 @@
 
 I am a Detail-oriented Professional with over 15 years of experience in administration, customer service, and data management. My current focus is bridging the gap between traditional administrative support and modern data visualization. I leverage my background in operational efficiency to develop technical solutions that streamline workflows and support data-informed decisions.
 
+[![Resume](https://img.shields.io/badge/View_My-Resume-green?style=for-the-badge&logo=github)](https://hellojohnkeppe.github.io/resume//)
+
 ### 🛠️ Technical Toolkit
 
 - **Web Development:** Building responsive web projects using HTML/CSS.
@@ -91,10 +93,6 @@ HTML
 - **Integration:** Demonstrates the same logic I use to connect Notion and Slack for team-wide transparency.
 
 ---
-
-### 📄 Professional Links
-* **Interactive Resume:** [View My Full Experience on GitHub Pages](https://hellojohnkeppe.github.io/resume/)
-* **Direct Download:** [Download Resume (PDF)](resume.pdf)
 
 ### 📫 Connect with Me
 
