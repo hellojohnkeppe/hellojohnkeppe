@@ -94,7 +94,7 @@ HTML
 
 ### 📄 Professional Links
 * **Interactive Resume:** [View My Full Experience on GitHub Pages](https://hellojohnkeppe.github.io/resume/)
-* **Direct Download:** [Download Resume (PDF)](./resume.pdf)
+* **Direct Download:** [Download Resume (PDF)](resume.pdf)
 
 ### 📫 Connect with Me
 
