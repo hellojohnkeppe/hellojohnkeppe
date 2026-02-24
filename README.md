@@ -100,6 +100,12 @@ HTML
 
 **Email:** hello.johnkeppe@gmail.com 
 
-[![Download Resume](https://img.shields.io/badge/Download_My-Resume-blue)](src="resume.pdf")
+## 📑 Professional Resume
+
+If you are a recruiter or hiring manager, you can view or download my full professional history below:
+
+ <a href="./resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+</a> 
 
 **Goal:** Seeking to apply my administrative expertise and technical proficiency to help organizations optimize their operations.
